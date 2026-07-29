@@ -50,4 +50,4 @@ Desenvolver dashboards interativos aplicando conceitos de:
 
 ## Observações
 
-Este projeto foi desenvolvido durante a formação Power BI Analyst da DIO (Fundamentos de Business intelligence) utilizando o dataset Financials da Microsoft. Durante o desenvolvimento foram realizadas pequenas adaptações na organização dos visuais, nomenclatura e layout em relação ao projeto proposto em aula.
+Este projeto foi desenvolvido durante a formação Power BI Analyst da DIO (Fundamentos de Business Intelligence) utilizando o dataset Financials da Microsoft. Durante o desenvolvimento foram realizadas pequenas adaptações na organização dos visuais, nomenclatura e layout em relação ao projeto proposto em aula.
