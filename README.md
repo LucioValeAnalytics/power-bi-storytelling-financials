@@ -39,6 +39,15 @@ Desenvolver dashboards interativos aplicando conceitos de:
 - financials.pbix
 - Microsoft-Power-BI-Storytelling.pptx
 
+## Competências Desenvolvidas
+
+- Modelagem de dados
+- Storytelling
+- Visualização de dados
+- Azure Maps
+- Publicação no Power BI Service
+- Integração entre Power BI e Microsoft PowerPoint
+
 ## Observações
 
-Projeto acadêmico desenvolvido durante a formação Power BI Analyst da DIO, com pequenas adaptações na organização dos visuais e nomenclatura.
+Este projeto foi desenvolvido durante a formação Power BI Analyst da DIO utilizando o dataset Financials da Microsoft. Durante o desenvolvimento foram realizadas pequenas adaptações na organização dos visuais, nomenclatura e layout em relação ao projeto proposto em aula.
